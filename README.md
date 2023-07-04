@@ -8,7 +8,6 @@
 <li>age: n/a</li>
 <li>food: Crispy Pork Basil 🐽</li>
 <li> I’m currently learning Reactjs React native and Python </li>
-<li> PYTHON LOVER!🐍 </li>
 <li> Just code for fun (❁´◡`❁)? </li>
 <li>game: genshin impact MINECRAFT apex and valorant(NUB GAME)</li>
 </ul>
@@ -18,7 +17,7 @@
 <div align="center">
   <a href="[https://github.com/ramune0144](https://github.com/sumet034)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumet034&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramune0144&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumet034&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 <h1></h1>
